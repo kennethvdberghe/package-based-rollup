@@ -1,0 +1,12 @@
+{
+  "name": "my-banner",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
+  "dependencies": {
+    "shoelace-components": "*"
+  }
+}

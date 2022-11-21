@@ -1,0 +1,12 @@
+{
+  "name": "shoelace-components",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "dist/shoelace-components.js",
+  "module": "dist/src/shoelace-components.js",
+  "types": "dist/src/shoelace-components.d.ts",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  }
+}
